@@ -1,3 +1,2 @@
 torch
 einops
-zetascale==2.1.6
